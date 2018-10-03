@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MAP Assignment</string>
+
+    <string-array name="whale_array">
+
+        <item> Ringtone 1</item>
+        <item> Ringtone 2</item>
+        <item> Ringtone 3</item>
+        <item> Ringtone 4</item>
+
+    </string-array>
+</resources>
